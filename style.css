@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+button
+{
+  color: white;
+  background-color: orange;
+  border-radius: 5px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: orange;
+}
+
+button:hover
+{
+  background-color: darkorange;
+  border-color: darkorange;
+}
+h2
+{
+  color: red;
+}
+h3
+{
+  color: blue;
+}
+
